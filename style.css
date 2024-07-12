@@ -1,0 +1,11 @@
+.card{
+    display: flex;
+    flex-direction: columm;
+    height: 100%;
+
+}
+.btn btn-primary{
+    display: flex;
+    flex-direction: columm;
+    height: 100%;
+}
